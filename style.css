@@ -81,17 +81,14 @@
 	box-shadow: 0 5px 10px rgba(255, 255, 255, 0.4);
 }
 
-.wrapper #ul li:hover,
-.wrapper #ul li:actve
+.wrapper #ul li:hover
 {
 	 background-color: #fff;
 	border-radius: 6px;
 	box-shadow: 0 5px 10px rgba(255, 255, 255, 0.4);
 }
 .wrapper #ul li:hover a,
-.wrapper #ul li:hover i ,
-.wrapper #ul li:active a,
-.wrapper #ul li:active i 
+.wrapper #ul li:hover i
 {
 	color: #0d74f5;
 }
